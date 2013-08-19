@@ -1,0 +1,29 @@
+{
+  "name": "dmu2css",
+  "version": "0.1.0",
+  "description": "Read a DescriptionOfMapUnits table from a .csv file and write a CartoCSS stylesheet",
+  "main": "dmu2css.js",
+  "dependencies": {
+    "csv": "~0.3.6",
+    "prompt": "~0.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ncgmp09/dmu2css.git"
+  },
+  "keywords": [
+    "Geology",
+    "FGDC",
+    "NCGMP09",
+    "CartoCSS"
+  ],
+  "author": "Arizona Geological Survey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ncgmp09/dmu2css/issues"
+  }
+}
