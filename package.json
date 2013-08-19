@@ -21,6 +21,9 @@
     "NCGMP09",
     "CartoCSS"
   ],
+  "bin": {
+      "dmu2css": "dmu2css.js"
+  },
   "author": "Arizona Geological Survey",
   "license": "MIT",
   "bugs": {
