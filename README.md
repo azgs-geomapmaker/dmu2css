@@ -11,5 +11,6 @@ Reads an [NCGMP09 DescriptionOfMapUnits table](http://ncgmp09.github.io/core-con
 Just `dmu2css`.
 
 You will be prompted for two pieces of information:
+
 1. DescriptionOfMapUnits file (CSV): Enter the path to a DescriptionOfMapUnits .csv file
 2. Output CartoCSS file: Enter the path to where you'd like it to write your CartoCSS file
